@@ -1,0 +1,2 @@
+V_supply_V,I_limit_A,V_compliance_V,R_load_ohm,C_load_F,dt_us,sim_window_s
+12.0,0.01,10.0,1000.0,1e-07,1.0,0.5

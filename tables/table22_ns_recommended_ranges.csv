@@ -1,0 +1,8 @@
+Parameter,Recommendation,Rationale
+Pulse form,"Biphasic, charge-balanced (cathodic-first), inter-phase gap 25–100 µs","Avoid net DC; reduce electrode polarization [13,14]"
+Current amplitude (I_phase),"0.5–5 mA (bench), start low and step","Within open-source stimulator ranges [13,14]"
+PW per phase,100–500 µs,Common for peripheral stimulation [11–14]
+Rate (λ or PRF),1–5 Hz,"Aperiodic timing reduces adaptation [11,12]"
+Aperiodic timing,Poisson-like (Exp ISI) with logging,"Memoriless intervals mitigate anticipation [11,12]"
+Compliance margin,10–20% below V_comp,"Headroom vs. impedance drift [25,26]"
+Isolation & CCS,Opto + CCS with limit & monitoring,"Safety boundary and current control [25–28,31,32]"
