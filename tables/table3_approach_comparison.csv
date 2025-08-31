@@ -1,5 +1,0 @@
-Approach,Pros,Spectral/ISI traits,HW complexity,Control knobs,Reproducibility,Typical use
-LFSR/m-seq,Deterministic; very fast; reproducible,Flat-ish spectrum; lines if unwhitened,"Simple (flip-flops, XOR); low cost","Polynomial, seed",High,Testing; comms; baseline APPI
-Poisson,Stochastic; memoryless ISI,Exponential ISI; broadband,Timer + RNG; moderate,λ,High,Neuro-stim; event modeling
-Chaos,"Deterministic chaos; sensitive to μ, seed",Broadband; parameter-dependent,Map iterators; care for precision,"μ, thresholds",Medium,"Randomization, security"
-Hybrids,Deterministic+stochastic mix,Tunable spectral/ISI,Combine modules,Multi-parameter,High,Tailored APPI profiles

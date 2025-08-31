@@ -1,5 +1,0 @@
-Module,I_typ_mA,I_peak_mA
-Arduino Mega,70,90
-Optocoupler + driver,15,25
-"Misc (LEDs, USB bridge)",20,30
-TOTAL,105,145

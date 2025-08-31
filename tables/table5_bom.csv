@@ -1,8 +1,0 @@
-RefDes,Part,Qty,Notes
-U1,Arduino Mega 2560,1,Core MCU board
-U2,Optocoupler 6N137 or 4N25,1,Isolation
-Q1,N-MOSFET logic-level,1,Pulse driver (if needed)
-R*,Resistor set,6,"Limiters, pull-ups"
-C*,Capacitors,4,Decoupling
-J1,Terminal block,1,Electrode/load interface
-PS,5V supply (USB or DC),1,System power

@@ -1,7 +1,0 @@
-Parameter,Target
-Isolation test voltage (1 min),≥ 2.5 kV DC (design target)
-Creepage/Clearance (logic↔output),≥ 6 mm (design target)
-Optocoupler CTR @ IF=5 mA,≥ 30% (datasheet-dependent)
-Output current limit (CCS),10 mA (programmable)
-Output compliance voltage,10 V (nominal)
-EMC edge-rate control,RC snubber / series R per layout study

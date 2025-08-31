@@ -1,4 +1,0 @@
-Signal,Arduino_Pin,Direction,Notes
-Pulse_OUT,D8,Output,TTL pulse to opto input
-Serial_RX/TX,USB,Bidirectional,Control & logs
-AnalogSeed,A0,Input,PRNG seed

@@ -1,6 +1,0 @@
-Application,Key requirements,Recommended settings,Safety/Notes
-Neurostimulation (in vitro),Low jitter; reproducible APPI; CCS (limited I); isolation,λ=1–5 Hz; PW=100–500 µs; Timer/ISR,Ensure V_peak<V_comp; electrode interface; event logging
-LPI comms / radar test,Broadband spectrum; minimal lines; long runs,λ=2–8 Hz; PW=50–200 µs; Timer/ISR,EMC shielding; duty control
-EMC stress / device screening,Edge-rate shaping; controllable duty; isolation,λ=0.5–3 Hz; PW=200–1000 µs; Timer/ISR,RC snubber; monitor P_total_avg
-Device characterization (inputs),Repeatability; parameter sweep; telemetry,λ=1–4 Hz; PW=50–800 µs; Timer/ISR,Use Fig. 23 map; keep CSV logs
-Education / lab training,Simplicity; visibility of effects,λ=0.5–2 Hz; PW=200–1000 µs; baseline/Timer,Lower currents; SOPs

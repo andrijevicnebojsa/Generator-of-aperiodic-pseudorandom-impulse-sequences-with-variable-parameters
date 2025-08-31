@@ -1,7 +1,0 @@
-Platforma,Godina/Status,Osnovna platforma,Kanali,Režim izlaza,Izolacija,Poisson mod (native),Napomena,Primarni izvori
-Pulse Pal v2,2014 (v1); v2 aktivno 2025,Arduino Due (ATSAM3X8E),4× naponski izlaz; 2× TTL trig.,"Naponski (±10 V), 12-bit DAC",Opto na trigger kanalima,Ne (softverski definisane sekvence),Softverski talasi; microSD; visoka vremenska preciznost,Frontiers 2014; Sanworks 2025
-StimJim,~2019–2025,Open-hardware MCU (Open Ephys),2,Strujni/naponski; do ~±15 V ili ±3 mA (model-zavisno),Galvanski izolovani izlazi,Ne (arbitrarni talasi),"Jeftin, dvo-kanalni; merenje struje/napona",Open Ephys; Labmaker
-Multikanalni HV stimulator (Sci. Reports 2023),2023,Prilagoðen MCU sistem,Više (multikanalno),Visoka kompliansa (HV); n.v.,n.v.,Ne (arbitrarni protokoli podržani),Prenosiv; real-time promena PW/frekvencije,Scientific Reports 2023
-Arduino-based microcurrent stimulator,2023,Arduino,n.v.,Mikrostruja; DC/pulsni režim,n.v.,Ne (moguæe softverski),Stabilno vreme; regulacija struje,PMC 2023
-NeuroStimDuino (v2.1),2021–2023 (v2.1),Arduino shield + dsPIC33F (I?C),2 po ploèi (stack do 222),Konstantna struja; biphasic; do ±20 mA,Opto separacija digital/analog; sigurnosne funkcije,Ne (I?C arbitrarni paterni),"Otvoren, edukativan; merenje struje; ±60 V kompliansa",Crowd Supply 2023; GitHub 2023
-FPGA random pulse generator,2013 (istorijski),FPGA (65 nm),Višekanalno,Naponski/TTL (PDF podesiv),n.v.,Da (eksplicitni Poisson/Uniform za ISI),,
