@@ -1,0 +1,11 @@
+pycache/
+*.pyc
+*.pyo
+.DS_Store
+.vscode/
+.idea/
+logs/
+datasets/.tmp
+figures/
+tables/
+*.zip
