@@ -1,0 +1,6 @@
+Limitation,Mitigation
+Finite record effects (periodogram/ACF),Longer duration; multiple seeds; average spectra
+Timer resolution / MCU jitter,Timer/ISR; keep ISR short; stable clock
+Compliance saturation (high R or long PW),Use Fig. 23; reduce PW or λ; increase V_comp within safety
+EMC emissions from fast edges,Series R / RC snubber; careful layout; shielding
+PW quantization at short widths,Calibrate; set PW_min; characterize error

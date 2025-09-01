@@ -1,0 +1,4 @@
+Model,Definicija dogaðaja,Trajanje segmenata,Odnos dogaðaji:impulsi,Prednosti,Tipiène primene
+A,Poèetak impulsa,PW fiksno ili sluèajno; pauza = do sledeæeg dogaðaja,?1:1,Precizna kontrola broja impulsa; jednostavna telemetrija,"Neurostimulacija (bifazni dogaðaj), test-signali"
+B,Promena stanja (1?0),Svaki segment traje sluèajno (Exp),?2:1 (dogaðaji:impulsi),Simetrièna kontrola impulsa i pauza; kontrola duty,"ON/OFF protokoli, sistemska simulacija prekidaèa"
+C,Poèetak segmenta + Bernoulli( p ),Segment traje sluèajno; tip segmenta biran Bernoulli-jem,<1:1 (zavisno od p),,

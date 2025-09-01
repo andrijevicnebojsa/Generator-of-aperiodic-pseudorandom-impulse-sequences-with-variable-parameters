@@ -1,0 +1,10 @@
+Item,Target / Note
+Galvanic isolation boundary,"Maintain creepage/clearance; dedicated return path [31,32]"
+Current limit & monitor,Programmable 
+,? with fault latch [25–28]
+Compliance voltage,Set 
+,"? per electrode impedance; margin 10–20% [25,26]"
+Charge balance,"Symmetric biphasic or active reset; log net charge [13,14]"
+Edge control / EMC,Series R / RC snubber; shield cabling [31]
+Telemetry & logs,"Timestamp, PW, "
+,? per pulse (CSV)
